@@ -1,0 +1,1 @@
+This is Node.js CLI application demonstrates CRUD operations on notes stored in a file. It utilizes core modules like fs for file system access and integrates with NPM packages like Jest for testing and Yargs for command-line arguments. The application also features a basic web server that interpolates data from the note database into server-side generated HTML.
